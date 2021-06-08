@@ -21,7 +21,7 @@
 
 ### 🎈 Profile 
 
-* Samsung SW Youth Academy 5기 (2021.01 ~ )
+* Samsung Software Academy For Youth 5기 (2021.01 ~ )
 * 고영테크놀러지 (2018.01 ~ 2020.11)
   * windows 프로그램 유지보수
 * Computer Science B.S (2012.03 - 2018.02) `GPA 4.02 / 4.50`
