@@ -1,8 +1,5 @@
 ## JIHOON KIM  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-'꾸준함을 기록하자'
-
-<a href="https://hoonti06.gitlab.io">blog</a>
 
 ![](https://github-readme-stats.vercel.app/api?username=hoonti06&show_icons=true)
 
