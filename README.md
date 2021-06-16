@@ -39,12 +39,10 @@
       <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
       <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
       <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-      <img alt="Amazonaws" src="https://img.shields.io/badge/-Amazonaws-232F3E?style=flat-square&logo=Amazonaws&logoColor=white" />
       <img alt="MySQL"  src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white" />
     </p>
     <p>
       <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052cc?style=flat-square&logo=git&logoColor=white" />
     </p>
     <p>
       <a href="https://solved.ac/hoonti06">
@@ -52,13 +50,18 @@
     </p>
   </p>
 
+  
 ### 🤝 Open Source Contributes
 * [TEAMATES](https://github.com/TEAMMATES/teammates)
 
   
+### 📝 Blog
+* https://hoonti06.gitlab.io
+
+  
 ### 💾 Repositories
-* http://github.com/hoonti06
-* http://gitlab.com/hoonti06
+* https://github.com/hoonti06
+* https://gitlab.com/hoonti06
   
 
 
