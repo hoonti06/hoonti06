@@ -12,12 +12,13 @@
   
 </p>
 
-### 🎈 Profile 
+### 👨‍💻 Carrer 
 
-* Samsung Software Academy For Youth 5기 (2021.01 ~ )
+* 숭실대 컴퓨터학부 (2012.03 - 2018.02)
 * 고영테크놀러지 (2018.01 ~ 2020.11)
   * windows application 유지보수
-* Computer Science B.S (2012.03 - 2018.02) `GPA 4.02 / 4.50`
+* 삼성 청년 소프트웨어 아카데미 5기 (2021.01 ~ )
+
   
   
 
@@ -46,6 +47,7 @@
   
 ### 🤝 Open Source Contributes
 * [TEAMATES](https://github.com/TEAMMATES/teammates)
+  * https://github.com/TEAMMATES/teammates/pull/11151
 
   
 ### 📝 Blog
