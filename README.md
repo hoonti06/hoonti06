@@ -1,4 +1,5 @@
-## JIHOON KIM  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## 김지훈 JIHOON KIM  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+안녕하세요, 꾸준함을 기록하는 백엔드 개발자입니다.
 
   
 </p>
