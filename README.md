@@ -1,14 +1,5 @@
 ## JIHOON KIM  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
-![](https://github-readme-stats.vercel.app/api?username=hoonti06&show_icons=true)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hoonti06)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="left">
-  
-
   
 </p>
 
@@ -45,15 +36,21 @@
   </p>
 
   
-### 🤝 Open Source Contributes
+  
+
+### 🤝 Open Source Contribution
 * [TEAMATES](https://github.com/TEAMMATES/teammates)
   * https://github.com/TEAMMATES/teammates/pull/11151
 
   
+  
+
 ### 📝 Blog
 * https://hoonti06.gitlab.io
 
   
+  
+
 ### 💾 Repositories
 * https://github.com/hoonti06
 * https://gitlab.com/hoonti06
