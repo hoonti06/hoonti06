@@ -15,25 +15,26 @@
 
 ### 🧩 Skills 
 
+<p>
   <p>
-    <p>
-      <img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-    </p>
-    <p>
-      <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
-      <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-      <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-      <img alt="MySQL"  src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white" />
-    </p>
-    <p>
-      <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    </p>
-    <p>
-      <a href="https://solved.ac/hoonti06">
-        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hoonti06">
-    </p>
+    <img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   </p>
+  <p>
+    <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+    <img alt="MySQL"  src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white" />
+  </p>
+  <p>
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  </p>
+  <p>
+    <a href="https://solved.ac/hoonti06">
+      <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hoonti06" />
+    </a>
+  </p>
+</p>
 
   
   
