@@ -41,8 +41,6 @@
 
 ### 🤝 Open Source Contribution
 * [TEAMATES](https://github.com/TEAMMATES/teammates)
-  * https://github.com/TEAMMATES/teammates/pull/11151
-
   
   
 
