@@ -40,7 +40,7 @@
   
 
 ### 🤝 Open Source Contribution
-* [TEAMATES](https://github.com/TEAMMATES/teammates)
+* [TEAMATES](https://github.com/TEAMMATES/teammates) (once)
   
   
 
