@@ -40,8 +40,7 @@
   
 
 ### 🤝 Open Source Contribution
-* [TEAMATES](https://github.com/TEAMMATES/teammates) (once)
-  
+* [TEAMATES](https://github.com/TEAMMATES/teammates) ([한 번](https://github.com/TEAMMATES/teammates/pull/11151)) 
   
 
 ### 📝 Blog
