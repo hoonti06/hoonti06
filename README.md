@@ -39,7 +39,8 @@
   
 
 ### 🤝 Open Source Contribution
-* [TEAMATES](https://github.com/TEAMMATES/teammates) ([한 번](https://github.com/TEAMMATES/teammates/pull/11151)) 
+* [TEAMMATES](https://github.com/TEAMMATES/teammates)
+  * [log 검색 결과가 없으면 '결과 없음' 메시지를 유저가 바로 확인할 수 있도록 수정](https://github.com/TEAMMATES/teammates/pull/11151)  
   
 
 ### 📝 Blog
