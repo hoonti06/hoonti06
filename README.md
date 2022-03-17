@@ -1,5 +1,5 @@
 ## 김지훈 JIHOON KIM  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-안녕하세요, 성실함을 통해 꾸준히 성잔하는 백엔드 개발자입니다.
+안녕하세요, 성실함을 통해 꾸준히 성장하는 백엔드 개발자입니다.
 
   
 </p>
