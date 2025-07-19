@@ -26,7 +26,6 @@
 
 <p>
   <p>
-    <img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   </p>
   <p>
